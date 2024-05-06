@@ -16,3 +16,4 @@ langchain-community
 llama-index
 llama-index-vector-stores-chroma
 chromadb
+aiohttp>=3.9.4 # not directly required, pinned by Snyk to avoid a vulnerability
